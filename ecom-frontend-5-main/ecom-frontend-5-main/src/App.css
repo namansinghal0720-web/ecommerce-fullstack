@@ -172,15 +172,12 @@ a {
   padding-top: 500px; 
 }
 
-.card{
-  padding-top: 500px;
-  width: 40px;
+.card {
   padding: 1rem;
-  height:  13rem;
+  width: 100%;
+  min-height: auto;
   border-radius: 5%;
   background-color: var(--card-bg-clr) !important;
-  
- 
 }
 .card h5,h3,i{
   color: var(--para-clr) !important;
